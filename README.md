@@ -33,7 +33,7 @@ Power bi - For creating visualizations.
 - Work-life balance is generally not a major issue, but still affects a small percentage of employees.
 - The hourly rate does not directly correlate with employee performance, suggesting potential issues with salary compression where good-performing employees are paid more than more productive employees.
 
-  Dashboard png: ![Dashboard Preview](https://github.com/savio999/employee_performance_dashboard_analysis/blob/main/dashboard%20picture.png)
+  Dashboard png: ![Dashboard Preview]([https://github.com/savio999/employee_performance_dashboard_analysis/blob/main/dash.png])
   Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiYWRhNzVkY2YtOTc0OS00ZWFlLTlmNGMtZTcyMTFiNzA5YmU0IiwidCI6Ijc1Y2VlNjM4LWJjNjItNDFhYi05M2ZjLTk2MzU5M2VkMjc1MCJ9
 
 
