@@ -33,7 +33,7 @@ Power bi - For creating visualizations.
 - Work-life balance is generally not a major issue, but still affects a small percentage of employees.
 - Training time does not directly correlate with performance levels. Outstanding performers spend less time in formal training than Good and Excellent performers, suggesting that they may be learning and developing through other methods, such as on-the-job experience or mentorship.
 
-  Dashboard png: https://github.com/savio999/employee_performance_dashboard_analysis/blob/main/dashboard%20picture.png
+  Dashboard png: ![Dashboard Preview](https://github.com/savio999/employee_performance_dashboard_analysis/blob/main/dashboard%20picture.png)
   Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiYWRhNzVkY2YtOTc0OS00ZWFlLTlmNGMtZTcyMTFiNzA5YmU0IiwidCI6Ijc1Y2VlNjM4LWJjNjItNDFhYi05M2ZjLTk2MzU5M2VkMjc1MCJ9
 
 
