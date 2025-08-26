@@ -20,10 +20,10 @@ Power bi - For creating visualizations.
   - Good employees who left showed 58% low and 36% medium environment satisfaction, 25% low job satisfaction, 32% low/medium job involvement, and 13.9% poor work-life balance.
   - Excellent employees who left showed 30% low job satisfaction, 23% low relationship satisfaction, 10% low job involvement, and 9.6% low work-life balance.
 4. Among currently working employees: 32% report low job satisfaction, 17.5% low relationship satisfaction, 16.9% low environment satisfaction, 4.7% low job involvement, and 4.6% poor work-life balance.
-5. Outstanding employees have high job satisfaction overall (39.4% very high, 25.4% high), but 23% still report low satisfaction and 37.4% report low relationship satisfaction. They show no poor work-life balance and receive the highest promotions and salary hikes.
+5. Outstanding employees have high job satisfaction overall (39.4% very high, 25.4% high), but 23% still report low satisfaction and 37.4% report low relationship satisfaction. They show no poor work-life balance and receive the highest promotions and salary hikes. Thier hourly rate is slightly lower than excellant employees.
 6. Excellent employees (the largest group) show over 50% high or very high job satisfaction, but 17.6% have low satisfaction, 16% low relationship satisfaction, 12.9% low environment satisfaction, and 4.9% poor work-life balance. Compared to Outstanding employees, they receive fewer promotions though their hourly rate is nearly the same.
-7. Good employees (average performers) show 18% low job satisfaction, 38% low/medium environment satisfaction, and 7% poor work-life balance. They receive fewer promotions than Excellent/Outstanding employees and tend to spend more years under the same manager.
-8.	Analysis of training times reveals that Excellent performers have the highest average training time (2.8 hours), followed by Good performers (2.76 hours), with Outstanding performers having the lowest average (2.71 hours). This suggests that your top performers may rely more on on-the-job experience or other informal learning methods than formal training
+7. Good employees (average performers) show 18% low job satisfaction, 38% low/medium environment satisfaction, and 7% poor work-life balance. They receive fewer promotions than Excellent/Outstanding employees and tend to spend more years under the same manager. Their average hourly rate is more than excellant and outstanding employees.
+8.	Analysis of training times reveals that Excellent performers have the highest average training time (2.8 hours), followed by Good performers (2.76 hours), with Outstanding performers having the lowest average (2.71 hours). 
 
 ### Conclusions
 - Low and medium job satisfaction is a recurring issue across all performance levels.
@@ -31,7 +31,7 @@ Power bi - For creating visualizations.
 - A significant portion of high-performing employees (Excellent and Outstanding) left due to low satisfaction, indicating retention issues.
 - Promotions and career progression opportunities appear limited for Good and Excellent employees compared to Outstanding employees, possibly affecting motivation.
 - Work-life balance is generally not a major issue, but still affects a small percentage of employees.
-- Training time does not directly correlate with performance levels. Outstanding performers spend less time in formal training than Good and Excellent performers, suggesting that they may be learning and developing through other methods, such as on-the-job experience or mentorship.
+- The hourly rate does not directly correlate with employee performance, suggesting potential issues with salary compression where long-tenured, good-performing employees are paid more than more productive, recent hires.
 
   Dashboard png: ![Dashboard Preview](https://github.com/savio999/employee_performance_dashboard_analysis/blob/main/dashboard%20picture.png)
   Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiYWRhNzVkY2YtOTc0OS00ZWFlLTlmNGMtZTcyMTFiNzA5YmU0IiwidCI6Ijc1Y2VlNjM4LWJjNjItNDFhYi05M2ZjLTk2MzU5M2VkMjc1MCJ9
