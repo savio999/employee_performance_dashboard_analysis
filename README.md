@@ -1,3 +1,5 @@
 Employee performance dashboard
 
 Tools used: Powerbi
+
+Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiYWRhNzVkY2YtOTc0OS00ZWFlLTlmNGMtZTcyMTFiNzA5YmU0IiwidCI6Ijc1Y2VlNjM4LWJjNjItNDFhYi05M2ZjLTk2MzU5M2VkMjc1MCJ9
